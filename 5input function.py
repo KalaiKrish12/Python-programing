@@ -1,0 +1,5 @@
+a= input("Enter ur name")
+b= input("enter ur Age")
+print(a)
+print(b)
+print(int(c))
